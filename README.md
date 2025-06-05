@@ -93,7 +93,7 @@ I enjoy transforming complex problems into elegant solutions through clean, effi
 
 ## 📫 Let's Connect!
 <p align="center">
-  <a href="https://www.linkedin.com/in/makarynour612/">
+  <a href="https://www.linkedin.com/in/makary-nour-75a29a302">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:makarynour612@gmail.com">
