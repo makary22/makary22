@@ -72,20 +72,11 @@ I’m a Computer Science student based in Cairo, Egypt, passionate about backend
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MakaryNour&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=00000000" width="48%"/>
-  
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MakaryNour&theme=radical&hide_border=true&background=00000000" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MakaryNour&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MakaryNour&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 </p>
 
-<p align="center">
-  <!-- Language Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MakaryNour&layout=compact&theme=radical&hide_border=true&bg_color=00000000" width="45%"/>
-  
-  <!-- Trophy Stats -->
-  <img src="https://github-profile-trophy.vercel.app/?username=MakaryNour&theme=radical&no-frame=true&margin-w=10" width="45%"/>
-</p>
+
 
 ---
 
