@@ -17,9 +17,7 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science student based in Cairo, Egypt, passionate about software development and problem-solving.  
-My journey focuses on becoming a skilled full-stack developer with strong foundations in both frontend and backend technologies.  
-I enjoy transforming complex problems into elegant solutions through clean, efficient code.
+I’m a Computer Science student based in Cairo, Egypt, passionate about backend development and artificial intelligence/machine learning. Currently, I’m focused on advancing my skills in Node.js and TypeScript to build robust, scalable backend solutions. I enjoy tackling complex problems and transforming them into clean, efficient code. My goal is to become a skilled full-stack developer with a strong foundation in both backend technologies and AI/ML.
 
 ---
 
