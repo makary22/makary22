@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Makary Nour 👋</h1>
-<h3 align="center">Computer Science Student | Aspiring Full-Stack Developer | Problem Solver</h3>
+<h3 align="center">Computer Science Student | Back-End Dev in Progress (Node.js, TS) | Aspiring AI/ML Developer </h3>
 
 <p align="center">
   <a href="mailto:makarynour612@gmail.com">
